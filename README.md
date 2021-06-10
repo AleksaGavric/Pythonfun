@@ -15,7 +15,7 @@ Alarm app which opens your favoite website when it's time. Requires a links.txt 
 Prints first 10 fibbonaci numbers, enumarated. 
 
 ## hilbert
-Hilbert curve animation maker using Turtle. (very fun to watch )
+Hilbert curve animation maker using Turtle. (very fun to watch 😄)
 
 ## mail
 Easy & quick email sender, can send hundreds of email in a second. 
